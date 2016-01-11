@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Students.API", "Students.API\Students.API.csproj", "{F1535331-28D2-4571-924F-D3B3F6722074}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Students.DataModel", "Students.DataModel\Students.DataModel.csproj", "{6E0EB122-2F25-4E55-A909-0A119C15E478}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Students.Services", "Students.Services\Students.Services.csproj", "{68DF509D-AA95-4F46-AA37-9F82FB6A75A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1535331-28D2-4571-924F-D3B3F6722074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1535331-28D2-4571-924F-D3B3F6722074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1535331-28D2-4571-924F-D3B3F6722074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1535331-28D2-4571-924F-D3B3F6722074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E0EB122-2F25-4E55-A909-0A119C15E478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E0EB122-2F25-4E55-A909-0A119C15E478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E0EB122-2F25-4E55-A909-0A119C15E478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E0EB122-2F25-4E55-A909-0A119C15E478}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68DF509D-AA95-4F46-AA37-9F82FB6A75A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68DF509D-AA95-4F46-AA37-9F82FB6A75A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68DF509D-AA95-4F46-AA37-9F82FB6A75A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68DF509D-AA95-4F46-AA37-9F82FB6A75A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

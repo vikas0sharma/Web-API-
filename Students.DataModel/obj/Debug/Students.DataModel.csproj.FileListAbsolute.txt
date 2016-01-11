@@ -1,0 +1,9 @@
+C:\Users\vikas\Documents\Visual Studio 2013\Projects\Students.API\Students.DataModel\bin\Debug\Students.DataModel.dll
+C:\Users\vikas\Documents\Visual Studio 2013\Projects\Students.API\Students.DataModel\bin\Debug\Students.DataModel.pdb
+C:\Users\vikas\Documents\Visual Studio 2013\Projects\Students.API\Students.DataModel\bin\Debug\MongoDB.Bson.dll
+C:\Users\vikas\Documents\Visual Studio 2013\Projects\Students.API\Students.DataModel\bin\Debug\MongoDB.Driver.dll
+C:\Users\vikas\Documents\Visual Studio 2013\Projects\Students.API\Students.DataModel\bin\Debug\MongoDB.Bson.xml
+C:\Users\vikas\Documents\Visual Studio 2013\Projects\Students.API\Students.DataModel\bin\Debug\MongoDB.Driver.xml
+C:\Users\vikas\Documents\Visual Studio 2013\Projects\Students.API\Students.DataModel\obj\Debug\Students.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\vikas\Documents\Visual Studio 2013\Projects\Students.API\Students.DataModel\obj\Debug\Students.DataModel.dll
+C:\Users\vikas\Documents\Visual Studio 2013\Projects\Students.API\Students.DataModel\obj\Debug\Students.DataModel.pdb
