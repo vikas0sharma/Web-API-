@@ -7,3 +7,12 @@ C:\Users\vikas\Documents\Visual Studio 2013\Projects\Students.API\Students.DataM
 C:\Users\vikas\Documents\Visual Studio 2013\Projects\Students.API\Students.DataModel\obj\Debug\Students.DataModel.csprojResolveAssemblyReference.cache
 C:\Users\vikas\Documents\Visual Studio 2013\Projects\Students.API\Students.DataModel\obj\Debug\Students.DataModel.dll
 C:\Users\vikas\Documents\Visual Studio 2013\Projects\Students.API\Students.DataModel\obj\Debug\Students.DataModel.pdb
+D:\Setup_\my\article\Students.API\Web-API-\Students.DataModel\bin\Debug\Students.DataModel.dll
+D:\Setup_\my\article\Students.API\Web-API-\Students.DataModel\bin\Debug\Students.DataModel.pdb
+D:\Setup_\my\article\Students.API\Web-API-\Students.DataModel\bin\Debug\MongoDB.Bson.dll
+D:\Setup_\my\article\Students.API\Web-API-\Students.DataModel\bin\Debug\MongoDB.Driver.dll
+D:\Setup_\my\article\Students.API\Web-API-\Students.DataModel\bin\Debug\MongoDB.Bson.xml
+D:\Setup_\my\article\Students.API\Web-API-\Students.DataModel\bin\Debug\MongoDB.Driver.xml
+D:\Setup_\my\article\Students.API\Web-API-\Students.DataModel\obj\Debug\Students.DataModel.csprojResolveAssemblyReference.cache
+D:\Setup_\my\article\Students.API\Web-API-\Students.DataModel\obj\Debug\Students.DataModel.dll
+D:\Setup_\my\article\Students.API\Web-API-\Students.DataModel\obj\Debug\Students.DataModel.pdb

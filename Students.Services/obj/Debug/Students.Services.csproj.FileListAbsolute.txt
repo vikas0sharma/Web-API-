@@ -9,3 +9,14 @@ C:\Users\vikas\Documents\Visual Studio 2013\Projects\Students.API\Students.Servi
 C:\Users\vikas\Documents\Visual Studio 2013\Projects\Students.API\Students.Services\obj\Debug\Students.Services.csprojResolveAssemblyReference.cache
 C:\Users\vikas\Documents\Visual Studio 2013\Projects\Students.API\Students.Services\obj\Debug\Students.Services.dll
 C:\Users\vikas\Documents\Visual Studio 2013\Projects\Students.API\Students.Services\obj\Debug\Students.Services.pdb
+D:\Setup_\my\article\Students.API\Web-API-\Students.Services\bin\Debug\Students.Services.dll
+D:\Setup_\my\article\Students.API\Web-API-\Students.Services\bin\Debug\Students.Services.pdb
+D:\Setup_\my\article\Students.API\Web-API-\Students.Services\bin\Debug\MongoDB.Bson.dll
+D:\Setup_\my\article\Students.API\Web-API-\Students.Services\bin\Debug\MongoDB.Driver.dll
+D:\Setup_\my\article\Students.API\Web-API-\Students.Services\bin\Debug\Students.DataModel.dll
+D:\Setup_\my\article\Students.API\Web-API-\Students.Services\bin\Debug\Students.DataModel.pdb
+D:\Setup_\my\article\Students.API\Web-API-\Students.Services\bin\Debug\MongoDB.Bson.xml
+D:\Setup_\my\article\Students.API\Web-API-\Students.Services\bin\Debug\MongoDB.Driver.xml
+D:\Setup_\my\article\Students.API\Web-API-\Students.Services\obj\Debug\Students.Services.csprojResolveAssemblyReference.cache
+D:\Setup_\my\article\Students.API\Web-API-\Students.Services\obj\Debug\Students.Services.dll
+D:\Setup_\my\article\Students.API\Web-API-\Students.Services\obj\Debug\Students.Services.pdb
